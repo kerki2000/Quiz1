@@ -1,0 +1,10 @@
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.csprojAssemblyReference.cache
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.FormRegister.resources
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.Properties.Resources.resources
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.csproj.GenerateResource.cache
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.csproj.CoreCompileInputs.cache
+C:\Users\1896321\source\repos\TestExam\TestExam\bin\Debug\TestExam.exe.config
+C:\Users\1896321\source\repos\TestExam\TestExam\bin\Debug\TestExam.exe
+C:\Users\1896321\source\repos\TestExam\TestExam\bin\Debug\TestExam.pdb
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.exe
+C:\Users\1896321\source\repos\TestExam\TestExam\obj\Debug\TestExam.pdb
